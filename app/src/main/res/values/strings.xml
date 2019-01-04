@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My_Log_In_App</string>
+    <string name="login_text">LOG IN PAGE</string>
+    <string name="username_text">User Name :</string>
+    <string name="password_text">Password :</string>
+    <string name="attempts_text">Attempts</string>
+    <string name="login_button">LogIn</string>
+    <string name="details_text">PERSONAL DETAILS</string>
+    <string name="tryagain_button">Try Again!!</string>
+    <string name="logout_button">Log Out</string>
+</resources>
